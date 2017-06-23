@@ -69,5 +69,5 @@ function reverse(phrase){
 
     }
     console.log(word);
-    return word;
+    return word; 
 }
